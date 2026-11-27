@@ -1,4 +1,4 @@
-# 齊梓｜望月系列
+# 齊梓&溫妮｜望月系列
 
 線上閱讀（啟用 GitHub Pages 後）：https://lady-winni.github.io/Novel_1/
 
@@ -14,4 +14,4 @@
 9. 《十六夜》
 10. 《望月結衣》
 
-© 2026 齊梓. CC BY-NC-ND 4.0 — 詳見 [LICENSE.md](LICENSE.md)。
+© 2026 齊梓&溫妮. CC BY-NC-ND 4.0 — 詳見 [LICENSE.md](LICENSE.md)。
